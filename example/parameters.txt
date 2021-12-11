@@ -1,0 +1,5 @@
+config	bmtagger.conf
+bitmask	input.bitmask
+srprism	input.srprism
+forward	R1.fastq
+reverse	R2.fastq

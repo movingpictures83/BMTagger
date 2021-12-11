@@ -1,0 +1,2 @@
+Prefix plugins/BMTagger/example
+Plugin BMTagger inputfile parameters.txt outputfile host.list
